@@ -4,7 +4,7 @@
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
 ## Overview
-Telco churn: This smodel tend to tracks a fictional telco company's customer churn based on a variety of factors. The Churn Label column indicates whether or not the customer left the commpany. 
+Telco churn: This model tend to tracks a fictional telco company's customer churn based on a variety of factors. The Churn Label column indicates whether or not the customer left the commpany. 
 
 
 ## WebApp
